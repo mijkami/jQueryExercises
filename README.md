@@ -38,7 +38,7 @@ Outre la prise en charge des différents navigateurs, jQuery est aussi renommé 
 
 Aujourd'hui, l'usage de ces sélecteurs est toujours possible mais n'est plus aussi intéressant que par le passé depuis l'implémentation en 2009  de Javascript Version 5 a amenée différents outils venant de jQuery, dont les querySelectors utilisés dans le JavaScript "simple" (aussi appelé "vanilla JavaScript").
 
-### [http://youmightnotneedjquery.com/](Comparaison JS/jQuery)
+### ![http://youmightnotneedjquery.com/](Comparaison JS/jQuery)
 
 Histoire de comparer, voyons comment ajouter "Bonjour" après un élément quelconque via les différentes syntaxes à disposition :
 ```
@@ -59,7 +59,7 @@ En jQuery, on aura :
 $("ul").first().append("<p>Bonjour</p>");
 ```
 
-On a aussi l' [https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html](API Selectors) disponible en JS simple/vanilla :
+On a aussi l' ![https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html](API Selectors) disponible en JS simple/vanilla :
 ```
 document.querySelectorAll('ul') += "<p>Bonjour</p>"
 ```
