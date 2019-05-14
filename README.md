@@ -38,7 +38,8 @@ Aujourd'hui, l'usage de ces sélecteurs est toujours possible mais n'est plus au
 
 
 Être d'abord sûr que la page soit prête, avec l'arborescence DOM construite, avec :
-```$(document).ready(function() {
+```
+$(document).ready(function() {
 	alert('La page est prête !);
 });
 ```
