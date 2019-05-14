@@ -17,9 +17,9 @@ ______               ____  ___
 
 # Comment faire :
 
-- cloner ou télécharger via le bouton vert en haut à droite
-- ouvrir index.html dans votre navigateur préféré
-- ouvrir js/main.js
+- **cloner ou télécharger** via le bouton vert en haut à droite
+- **ouvrir index.html** dans votre navigateur préféré
+- **ouvrir js/main.js**
 - suivre les instructions !
 
 
