@@ -90,6 +90,7 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 # Sources :
 
 - https://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/
+- https://gist.github.com/joyrexus/7307312
 - http://youmightnotneedjquery.com/
 - https://github.com/nefe/You-Dont-Need-jQuery
 - http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf
