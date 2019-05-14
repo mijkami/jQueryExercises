@@ -61,3 +61,4 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 - http://nicholasjohnson.com/javascript-book/ (partie jQuery)
 - http://vanilla-js.com/
 - https://plainjs.com/
+- https://github.com/lanneyre/jQuery
