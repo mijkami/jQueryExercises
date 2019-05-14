@@ -12,19 +12,26 @@
 //
 // Sélectionnez via jQuery la classe correspondante et appliquez une méthode
 // permettant de l'afficher !
+//
+// Eléments à utiliser :
+// 		.product-photo
+//		.show() (ou .toggle())
+// 		$();
 
 $(document).ready(() => {
-	$('.product-photo').show();
+	
 });
 
 
 
-
+// Maintenant, sélectionnez l'id nav-dropdown et cachez-moi cette navbar !
 
 $(document).ready(() => {
-  $('#nav-dropdown').hide();
+  
 });
 
+
+//
 
 
 
