@@ -49,7 +49,7 @@ $(document).ready(() => {
 });
 
 
-
+// Toujours en manipulant uniquement le DOM :
 // Maintenant, sélectionnez l'id nav-dropdown et cachez-moi cette navbar !
 
 $(document).ready(() => {
