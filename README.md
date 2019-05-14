@@ -38,7 +38,7 @@ Outre la prise en charge des différents navigateurs, jQuery est aussi renommé 
 
 Aujourd'hui, l'usage de ces sélecteurs est toujours possible mais n'est plus aussi intéressant que par le passé depuis l'implémentation en 2009  de Javascript Version 5 a amenée différents outils venant de jQuery, dont les querySelectors utilisés dans le JavaScript "simple" (aussi appelé "vanilla JavaScript").
 
-### ![Comparaison JS/jQuery](http://youmightnotneedjquery.com/)
+## ![Comparaison JS/jQuery](http://youmightnotneedjquery.com/)
 
 Histoire de comparer, voyons comment ajouter "Bonjour" après un élément quelconque via les différentes syntaxes à disposition :
 
@@ -70,7 +70,7 @@ ou encore
 ul.firstChild.appendChild("<p>Bonjour</p>")
 ```
 
-### Méthodes de navigation directe :
+## Méthodes de navigation directe :
 
 - parent() : renvoie le parent direct du/des élements sélectionnés
 ```
@@ -105,7 +105,32 @@ $("ul".last().append("<div>Bonjour</div>");
 $("ul".children().eq(2).append("<div>Bonjour</div>");
 ```
 
+## Méthodes d'ajout / suppression d'éléments
 
+- append("nouvel élément") : ajoute les éléments entre parenthèses comme enfants **à la fin** des éléments sélectionnés initialement
+```
+$("ul").append("<div>Bonjour</div>");
+```
+- prepend("nouvel élément") : ajoute les éléments entre parenthèses comme enfants **au début** des éléments sélectionnés initialement
+```
+$("ul").prepend("<div>Bonjour</div>");
+```
+- after("nouvel élément") : ajoute les éléments entre parenthèses comme siblings (frères/soeurs) **après** les éléments sélectionnés initialement
+```
+$("ul").after("<div>Bonjour</div>");
+```
+- before("nouvel élément") : ajoute les éléments entre parenthèses comme siblings (frères/soeurs) **avant** les éléments sélectionnés initialement
+```
+$("ul").before("<div>Bonjour</div>");
+```
+- remove() : **retire / supprime** les éléments sélectionnés **et tout leur contenu**
+```
+$("ul").remove();
+```
+- empty() : **retire / supprime uniquement le contenu** des éléments sélectionnés (texte compris)
+```
+$("ul").empty();
+```
 
 # Rappel général pour l'exercice :
 
