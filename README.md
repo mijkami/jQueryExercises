@@ -39,7 +39,7 @@ Outre la prise en charge des différents navigateurs, jQuery est aussi renommé 
 Aujourd'hui, l'usage de ces sélecteurs est toujours possible mais n'est plus aussi intéressant que par le passé depuis l'implémentation en 2009  de Javascript Version 5 a amenée différents outils venant de jQuery, dont les querySelectors utilisés dans le JavaScript "simple" (aussi appelé "vanilla JavaScript").
 
 
-Être d'abord sûr que la page soit prête, avec l'arborescence DOM construite, avec :
+Être d'abord sûr que la page soit prête avec l'arborescence DOM construite, grâce à la fonction suivante:
 ```
 $(document).ready(function() {
 	alert('La page est prête !);
