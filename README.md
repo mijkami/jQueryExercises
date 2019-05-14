@@ -132,6 +132,12 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 	$("ul").empty();
 ```
 
+
+## Il manque des méthodes ! Et le reste ?
+
+**RTFM** mes chers amis ! Utilisez au mieux les liens de 👩‍🎓**documentation**👨‍🎓 fournis ci-dessous 👇.
+
+
 # Rappel général pour l'exercice :
 
 Être d'abord sûr que la page soit prête avec l'arborescence DOM construite, grâce à la fonction suivante :

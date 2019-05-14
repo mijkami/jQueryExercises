@@ -38,7 +38,7 @@ $(document).ready(() => {
 //	changez la couleur du menu de la navbar (logo, menu, login) en bleu 
 
 $(document).ready(() => {
-
+	
 });
 
 
@@ -46,7 +46,7 @@ $(document).ready(() => {
 // changez la couleur du menu "dropdown" en dessous de la navbar en rouge
 
 $(document).ready(() => {
-
+	
 });
 
 
