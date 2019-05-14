@@ -9,7 +9,7 @@ ______               ____  ___
 
 # Cats e-store / THP Marseille - Nice
 
-![https://cdn.freebiesupply.com/logos/large/2x/jquery-2-logo-png-transparent.png](https://learn.jquery.com/)
+![https://learn.jquery.com/](https://cdn.freebiesupply.com/logos/large/2x/jquery-2-logo-png-transparent.png)
 
 
 jQuery a été mis en place pour s'intégrer facilement avec le HTML et le CSS.
