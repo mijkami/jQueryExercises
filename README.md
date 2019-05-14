@@ -1,3 +1,17 @@
+<pre>
+______               ____  ___     
+| ___ \             | |  \/  |     
+| |_/ /___  __ _  __| | .  . | ___ 
+|    // _ \/ _` |/ _` | |\/| |/ _ \
+| |\ \  __/ (_| | (_| | |  | |  __/
+\_| \_\___|\__,_|\__,_\_|  |_/\___|
+</pre>   
+
+# Cats e-store / THP Marseille - Nice
+
+![https://cdn.freebiesupply.com/logos/large/2x/jquery-2-logo-png-transparent.png](https://learn.jquery.com/)
+
+
 jQuery a été mis en place pour s'intégrer facilement avec le HTML et le CSS.
 
 Au niveau des sélecteurs CSS, si vous savez déjà que div#heading réfère à un élément <div> ayant l'id "heading", la transition se fera rapidement.
