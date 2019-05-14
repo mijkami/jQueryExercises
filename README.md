@@ -72,62 +72,62 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 
 ## Méthodes de navigation directe :
 
-- parent() : renvoie le parent direct du/des élements sélectionnés
+- **parent()** : renvoie le parent direct du/des élements sélectionnés
 ```
 	$("ul".parent().append("<div>Bonjour</div>");
 ```
-- children() : renvoie tous les enfants de la sélection
+- **children()** : renvoie tous les enfants de la sélection
 ```
 	$("ul".children().append("<div>Bonjour</div>");
 ```
-- next() : renvoie le sibling (frère/soeur) suivant la sélection
+- **next()** : renvoie le sibling (frère/soeur) suivant la sélection
 ```
 	$("ul".next().append("<div>Bonjour</div>");
 ```
-- prev() : renvoie le sibling (frère/soeur) précédent la sélection
+- **prev()** : renvoie le sibling (frère/soeur) précédent la sélection
 ```
 	$("ul".prev().append("<div>Bonjour</div>");
 ```
-- first() : renvoie le premier élément de la sélection
+- **first()** : renvoie le premier élément de la sélection
 ```
 	$("ul".first().append("<div>Bonjour</div>");
 ```
-- last() : renvoie le dernier élément de la sélection
+- **last()** : renvoie le dernier élément de la sélection
 ```
 	$("ul".last().append("<div>Bonjour</div>");
 ```
-- last() : renvoie le dernier élément de la sélection
+- **last()** : renvoie le dernier élément de la sélection
 ```
 	$("ul".last().append("<div>Bonjour</div>");
 ```
-- eq(i) : renvoie l'élément d'index i (démarre à 0) parmi la sélection
+- **eq(i)** : renvoie l'élément d'index i (démarre à 0) parmi la sélection
 ```
 	$("ul".children().eq(2).append("<div>Bonjour</div>");
 ```
 
 ## Méthodes d'ajout / suppression d'éléments
 
-- append("nouvel élément") : ajoute les éléments entre parenthèses comme enfants **à la fin** des éléments sélectionnés initialement
+- **append("nouvel élément")** : ajoute les éléments entre parenthèses comme enfants **à la fin** des éléments sélectionnés initialement
 ```
 	$("ul").append("<div>Bonjour</div>");
 ```
-- prepend("nouvel élément") : ajoute les éléments entre parenthèses comme enfants **au début** des éléments sélectionnés initialement
+- **prepend("nouvel élément")** : ajoute les éléments entre parenthèses comme enfants **au début** des éléments sélectionnés initialement
 ```
 	$("ul").prepend("<div>Bonjour</div>");
 ```
-- after("nouvel élément") : ajoute les éléments entre parenthèses comme siblings (frères/soeurs) **après** les éléments sélectionnés initialement
+- **after("nouvel élément")** : ajoute les éléments entre parenthèses comme siblings (frères/soeurs) **après** les éléments sélectionnés initialement
 ```
 	$("ul").after("<div>Bonjour</div>");
 ```
-- before("nouvel élément") : ajoute les éléments entre parenthèses comme siblings (frères/soeurs) **avant** les éléments sélectionnés initialement
+- **before("nouvel élément")** : ajoute les éléments entre parenthèses comme siblings (frères/soeurs) **avant** les éléments sélectionnés initialement
 ```
 	$("ul").before("<div>Bonjour</div>");
 ```
-- remove() : **retire / supprime** les éléments sélectionnés **et tout leur contenu**
+- **remove()** : **retire / supprime** les éléments sélectionnés **et tout leur contenu**
 ```
 	$("ul").remove();
 ```
-- empty() : **retire / supprime uniquement le contenu** des éléments sélectionnés (texte compris)
+- **empty()** : **retire / supprime uniquement le contenu** des éléments sélectionnés (texte compris)
 ```
 	$("ul").empty();
 ```
