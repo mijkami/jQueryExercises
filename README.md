@@ -150,17 +150,29 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 
 # Sources :
 
+### Documentation
+
 - https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model
 - https://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/
+- http://nicholasjohnson.com/javascript-book/ (partie jQuery)
+- https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html
+- http://www.jqueryfacile.com/par-l-exemple
+- https://makclass.com/books/introducing-jquery/3
+
+### Cours
+- http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf
+- https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery
+- https://openclassrooms.com/fr/courses/1631636-simplifiez-vos-developpements-javascript-avec-jquery
+- https://github.com/lanneyre/jQuery
+
+
+### Comparaison (et critique) avec le JavaScript "vanilla" moderne
+
+- https://css-tricks.com/now-ever-might-not-need-jquery/
 - https://gist.github.com/joyrexus/7307312
 - http://youmightnotneedjquery.com/
 - https://github.com/nefe/You-Dont-Need-jQuery
-- http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf
-- http://nicholasjohnson.com/javascript-book/ (partie jQuery)
 - http://vanilla-js.com/
 - https://plainjs.com/
-- https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html
-- https://github.com/lanneyre/jQuery
-- http://www.jqueryfacile.com/par-l-exemple
-- https://makclass.com/books/introducing-jquery/3
-- https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery?status=published
+
+
