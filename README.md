@@ -151,19 +151,31 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 # Sources :
 
 ### Documentation
-
+- https://api.jquery.com/
+- https://htmlcheatsheet.com/jquery/
+- https://developer.mozilla.org/fr/docs/Glossaire/jQuery
 - https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model
 - https://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/
 - http://nicholasjohnson.com/javascript-book/ (partie jQuery)
-- https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html
-- http://www.jqueryfacile.com/par-l-exemple
-- https://makclass.com/books/introducing-jquery/3
+
 
 ### Cours
+- https://lesdocs.fr/jquery/
+- https://www.pierre-giraud.com/javascript/jquery/jquery-introduction.php
+- http://www.jqueryfacile.com/par-l-exemple
+- https://makclass.com/books/introducing-jquery/3
 - http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf
 - https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery
 - https://openclassrooms.com/fr/courses/1631636-simplifiez-vos-developpements-javascript-avec-jquery
+- https://www.codecademy.com/learn/learn-jquery
+- https://fr.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery
+- https://learn.freecodecamp.org/front-end-libraries/jquery/
+- https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html
 - https://github.com/lanneyre/jQuery
+
+### Vidéos
+- jQuery Crash Course : https://www.youtube.com/watch?v=3nrLc_JOF7k&list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc
+- Grafikart : https://www.youtube.com/watch?v=nDotCAzJS0o&list=PLjwdMgw5TTLXGe5su8dYM8DpIH54gP5vl&index=2&t=0s
 
 
 ### Comparaison (et critique) avec le JavaScript "vanilla" moderne
@@ -175,4 +187,5 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 - http://vanilla-js.com/
 - https://plainjs.com/
 
-
+### Exercices divers
+- https://fr.khanacademy.org/computing/computer-programming/html-js-jquery/dom-modification-with-jquery/a/project-extreme-makeover-webpage-edition
