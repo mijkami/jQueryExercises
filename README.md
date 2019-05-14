@@ -73,7 +73,7 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 
 
 
-
+# Rappel général pour l'exercice :
 
 Être d'abord sûr que la page soit prête avec l'arborescence DOM construite, grâce à la fonction suivante :
 ```
