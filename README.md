@@ -91,6 +91,7 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 
 # Sources :
 
+- https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model
 - https://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/
 - https://gist.github.com/joyrexus/7307312
 - http://youmightnotneedjquery.com/
@@ -101,3 +102,6 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 - https://plainjs.com/
 - https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html
 - https://github.com/lanneyre/jQuery
+- http://www.jqueryfacile.com/par-l-exemple
+- https://makclass.com/books/introducing-jquery/3
+- https://openclassrooms.com/fr/courses/3504441-introduction-a-jquery?status=published
