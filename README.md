@@ -157,6 +157,7 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 - https://developer.mozilla.org/fr/docs/Web/API/Document_Object_Model
 - https://www.sitepoint.com/jquery-vs-raw-javascript-1-dom-forms/
 - http://nicholasjohnson.com/javascript-book/ (partie jQuery)
+- https://www.w3schools.com/jquery/
 
 
 ### Cours
