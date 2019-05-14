@@ -23,11 +23,14 @@ La première ligne indique "quand le document est prêt, lance la fonction suiva
 Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closure.
 
 Sources :
-http://youmightnotneedjquery.com/
-https://github.com/nefe/You-Dont-Need-jQuery
-http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf
-http://nicholasjohnson.com/javascript-book/ (partie jQuery)
 
+http://youmightnotneedjquery.com/
+
+https://github.com/nefe/You-Dont-Need-jQuery
+
+http://mediatheque.cite-musique.fr/MediaComposite/Debug/Dossier-Orchestre/ressources/jQuery.Novice.to.Ninja.2nd.Edition.pdf
+
+http://nicholasjohnson.com/javascript-book/ (partie jQuery)
 
 http://vanilla-js.com/
 https://plainjs.com/
