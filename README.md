@@ -156,6 +156,10 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 
 # Sources :
 
+### API
+- https://jquery.com/download/ : Télécharger le fichier source
+- https://developers.google.com/speed/libraries/#jquery : Utiliser un CDN : Google, Microsoft, CDNJS, JsDelivr
+
 ### Documentation
 - https://api.jquery.com/
 - https://htmlcheatsheet.com/jquery/
