@@ -70,6 +70,40 @@ ou encore
 ul.firstChild.appendChild("<p>Bonjour</p>")
 ```
 
+### Méthodes de navigation directe :
+
+- parent() : renvoie le parent direct du/des élements sélectionnés
+```
+$("ul".parent().append("<div>Bonjour</div>");
+```
+- children() : renvoie tous les enfants de la sélection
+```
+$("ul".children().append("<div>Bonjour</div>");
+```
+- next() : renvoie le sibling (frère/soeur) suivant la sélection
+```
+$("ul".next().append("<div>Bonjour</div>");
+```
+- prev() : renvoie le sibling (frère/soeur) précédent la sélection
+```
+$("ul".prev().append("<div>Bonjour</div>");
+```
+- first() : renvoie le premier élément de la sélection
+```
+$("ul".first().append("<div>Bonjour</div>");
+```
+- last() : renvoie le dernier élément de la sélection
+```
+$("ul".last().append("<div>Bonjour</div>");
+```
+- last() : renvoie le dernier élément de la sélection
+```
+$("ul".last().append("<div>Bonjour</div>");
+```
+- eq(i) : renvoie l'élément d'index i (démarre à 0) parmi la sélection
+```
+$("ul".children().eq(2).append("<div>Bonjour</div>");
+```
 
 
 
