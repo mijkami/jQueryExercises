@@ -48,7 +48,11 @@ $(document).ready(() => {
 
 
 
-// Faites 
+// Faites une modification sur le texte "Menu" de la navbar (haut logo, menu, login)
+// pour afficher/cacher (toggle) la dropdown (shoes & contact + les listes) avec un clic.
+$(document).ready(() => {
+  
+});
 
 
 // Vous êtes prêts pour les futures instructions, 
