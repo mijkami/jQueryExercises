@@ -59,7 +59,7 @@ En jQuery, on aura :
 $("ul").first().append("<p>Bonjour</p>");
 ```
 
-On a aussi l' [https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html]querySelectors(API Selectors) disponible en JS simple/vanilla :
+On a aussi l' [https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html](API Selectors) disponible en JS simple/vanilla :
 ```
 document.querySelectorAll('ul') += "<p>Bonjour</p>"
 ```
