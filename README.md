@@ -38,7 +38,7 @@ Outre la prise en charge des différents navigateurs, jQuery est aussi renommé 
 
 Aujourd'hui, l'usage de ces sélecteurs est toujours possible mais n'est plus aussi intéressant que par le passé depuis l'implémentation en 2009  de Javascript Version 5 a amenée différents outils venant de jQuery, dont les querySelectors utilisés dans le JavaScript "simple" (aussi appelé "vanilla JavaScript").
 
-### ![http://youmightnotneedjquery.com/](Comparaison JS/jQuery)
+### ![Comparaison JS/jQuery](http://youmightnotneedjquery.com/)
 
 Histoire de comparer, voyons comment ajouter "Bonjour" après un élément quelconque via les différentes syntaxes à disposition :
 ```
