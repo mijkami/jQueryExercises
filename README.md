@@ -27,7 +27,7 @@ ______               ____  ___
 
 jQuery a été mis en place pour s'intégrer facilement avec le HTML et le CSS.
 
-Au niveau des sélecteurs CSS, si vous savez déjà que div#heading réfère à un élément <div> ayant l'id "heading" ; la transition se fera rapidement.
+Au niveau des sélecteurs CSS, si vous savez déjà que div#heading réfère à un élément 'div' ayant l'id "heading" ; la transition se fera rapidement.
 
 
 A noter que le DOM a déjà été décrit comme étant "la pire API jamais conçue" (Douglas Crockford)
