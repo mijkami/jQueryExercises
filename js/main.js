@@ -31,7 +31,8 @@ $(document).ready(() => {
 });
 
 
-//
+// Vous êtes prêts pour les futures instructions, 
+// 	restez à l'écoute (il se passe sûrement quelque chose au tableau)
 
 
 
