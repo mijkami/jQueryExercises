@@ -26,7 +26,7 @@ $(document).ready(() => {
 
 
 // En manipulant uniquement l'arborescence DOM (uniquement les balises, pas de sélection de class/ID) :
-// 	Dans la navbar affichée en (haut logo, menu, login) , ajoutez à chaque 2nd élément
+// 	Dans le dropdown (shoes & contact + les listes) de la navbar, ajoutez à chaque 2nd élément
 //	de la liste l'élément : "<span> - 2nd!</span>"
 
 
