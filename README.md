@@ -41,6 +41,8 @@ Aujourd'hui, l'usage de ces sélecteurs est toujours possible mais n'est plus au
 ### ![Comparaison JS/jQuery](http://youmightnotneedjquery.com/)
 
 Histoire de comparer, voyons comment ajouter "Bonjour" après un élément quelconque via les différentes syntaxes à disposition :
+
+- en **JavaScript pur** (aussi appelé "vanilla". C'est une version exagérément longue que l'on peut retrouver parfois) :
 ```
 var bloc = document.createElement("p");
 var txt = document.createTextNode("bonjour");
@@ -49,17 +51,17 @@ console.log(bloc);
 document.getElementsByTagName("ul")[0].appendChild(bloc);
 ```
 
-C'était la version exagérément longue que l'on peut retrouver parfois. Dans ce cas précis en JS "vanilla" on peut quand même simplifier :
+- toujours en **javascript**, ce cas peut se simplifier :
 ```
 document.getElementsByTagName("ul")[0].innerHTML += "<p>Bonjour</p>";
 ```
 
-En jQuery, on aura :
+- en **jQuery**, on aura :
 ```
 $("ul").first().append("<p>Bonjour</p>");
 ```
 
-On a aussi l' [API Selectors](https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html) disponible en JS simple/vanilla :
+- en **JavaScript simple/vanilla** On a aussi l' [API Selectors](https://www.alsacreations.com/article/lire/1445-dom-queryselector-queryselectorall-selectors-api.html) disponible en  :
 ```
 document.querySelectorAll('ul') += "<p>Bonjour</p>"
 ```
