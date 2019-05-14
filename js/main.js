@@ -23,8 +23,9 @@ $(document).ready(() => {
 });
 
 
-// Dans la navbar affichée en haut, en manipulant uniquement le DOM (pas de class/ID) ;
-//	ajoutez à chaque 2nd élément de la liste l'élément "<span> - 2nd!</span>"
+// En manipulant uniquement le DOM (pas de class/ID) :
+// 	Dans la navbar affichée en haut, ajoutez à chaque 2nd élément
+//	de la liste l'élément : "<span> - 2nd!</span>"
 
 
 $(document).ready(() => {
