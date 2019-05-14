@@ -23,20 +23,44 @@ $(document).ready(() => {
 });
 
 
+// Dans la navbar affichée en haut, en manipulant uniquement le DOM (pas de class/ID) ;
+//	ajoutez à chaque 2nd élément de la liste l'élément "<span> - 2nd!</span>"
+
+
+$(document).ready(() => {
+	
+});
+
+
+
+// Toujours en manipulant uniquement le DOM : 
+//	changez la couleur du menu de la navbar (logo, menu, login) en bleu 
+
+$(document).ready(() => {
+
+});
+
+
+// Toujours en manipulant uniquement le DOM : 
+// changez la couleur du menu "dropdown" en dessous de la navbar en rouge
+
+$(document).ready(() => {
+
+});
+
+
 
 // Maintenant, sélectionnez l'id nav-dropdown et cachez-moi cette navbar !
 
 $(document).ready(() => {
-  
+	
 });
+
+
 
 
 // Vous êtes prêts pour les futures instructions, 
 // 	restez à l'écoute (il se passe sûrement quelque chose au tableau)
-
-
-
-
 
 
 
