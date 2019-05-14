@@ -12,7 +12,7 @@ $(document).ready(() => {
 
 
 
-// En manipulant uniquement le DOM (pas de class/ID) :
+// En manipulant uniquement l'arborescence DOM (uniquement les balises, pas de sélection de class/ID) :
 // 	Dans la navbar affichée en (haut logo, menu, login) , ajoutez à chaque 2nd élément
 //	de la liste l'élément : "<span> - 2nd!</span>"
 
@@ -23,7 +23,7 @@ $(document).ready(() => {
 
 
 
-// Toujours en manipulant uniquement le DOM : 
+// En manipulant uniquement l'arborescence DOM (uniquement les balises, pas de sélection de class/ID) : 
 //	changez la couleur (du background) du menu de la navbar (logo, menu, login) en bleu 
 
 $(document).ready(() => {
@@ -31,7 +31,7 @@ $(document).ready(() => {
 });
 
 
-// Toujours en manipulant uniquement le DOM : 
+// En manipulant uniquement l'arborescence DOM (uniquement les balises, pas de sélection de class/ID) : 
 // changez la couleur (du background) du menu "dropdown" (shoes & contact + les listes) en dessous de la navbar en rouge
 
 $(document).ready(() => {
@@ -47,6 +47,8 @@ $(document).ready(() => {
 });
 
 
+
+// Faites 
 
 
 // Vous êtes prêts pour les futures instructions, 
