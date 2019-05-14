@@ -29,8 +29,10 @@ jQuery a été mis en place pour s'intégrer facilement avec le HTML et le CSS.
 
 Au niveau des sélecteurs CSS, si vous savez déjà que div#heading réfère à un élément 'div' ayant l'id "heading" ; la transition se fera rapidement.
 
+![https://fr.wikipedia.org/wiki/Document_Object_Model](https://cf.ppt-online.org/files/slide/l/lG6hjyFR8carDYH7oVAtPW3exEOg0sSpQ1JKfm/slide-4.jpg)
 
-A noter que le DOM a déjà été décrit comme étant "la pire API jamais conçue" (Douglas Crockford)
+
+A noter que le DOM a déjà été décrit comme étant "la pire API jamais conçue" (Douglas Crockford)...
 
 Outre la prise en charge des différents navigateurs, jQuery est aussi renommé pour avoir fourni aux développeurs des sélecteurs d'éléments utilisant une syntaxe bien plus simple que celle existante au départ. 
 
