@@ -35,6 +35,7 @@ Pour faciliter votre navigation, vous pouvez utiliser les liens internes ci-dess
 - **ouvrir [index.html](index.html)** dans votre navigateur préféré
 - **ouvrir [js/main.js](js/main.js)**
 - suivre les instructions !
+- éventuellement se référer aux **corrections** disponibles dans  [js/correction.js](js/correction.js), n'hésitez pas à chercher à quoi correspondent les fonctions que vous ne connaissez pas encore 😉.
 
 
 # Introduction
