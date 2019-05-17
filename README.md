@@ -14,7 +14,7 @@ ______               ____  ___
 # Sommaire :
 
 - [Description](#Description)
-- [Comment faire / How to use](#Comment-faire-:)
+- [Comment faire / How to use](#Comment-faire)
 - [Introduction](#Introduction-:)
 	- [Comparaison JS/jQuery](.#Comparaison-JS/jQuery)
 	- [Méthodes de navigation directe](.#Méthodes-de-navigation-directe-:)
@@ -27,7 +27,7 @@ ______               ____  ___
 
 🚀 Le repo ici-présent contient quelques petits exercices sur jQuery, orientés autour d'une introduction sur les manipulation du DOM via jQuery.
 
-# Comment faire :
+# Comment faire
 
 - **cloner ou [télécharger](https://github.com/mijkami/jQueryExercises/archive/master.zip)** via le bouton vert en haut à droite
 - **ouvrir [index.html](index.html)** dans votre navigateur préféré
