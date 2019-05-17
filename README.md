@@ -11,19 +11,31 @@ ______               ____  ___
 
 ![https://learn.jquery.com/](https://cdn.freebiesupply.com/logos/large/2x/jquery-2-logo-png-transparent.png)
 
+# Sommaire :
+
+- (Description)[#Description-:]
+- (Comment faire / How to use)[#Comment-faire-:]
+- (Introduction)[#Introduction-:]
+	- (Comparaison JS/jQuery)[.#Comparaison-JS/jQuery]
+	- (Méthodes de navigation directe)[.#Méthodes-de-navigation-directe-:]
+	- (Méthodes d'ajout / suppression d'éléments)[.#Méthodes-d'ajout-/-suppression-d'éléments-:]
+	- (Il manque des méthodes !)[#Il-manque-des-méthodes-!-Et-le-reste-?]
+- (Sources (Docs, cours, vidéos, exercices, etc)[#Sources-:]
+- (Remerciements / aknowledgements)[#Remerciements-/-aknowledgements-:]
+
 # Description :
 
-🚀 Le repo ici-présent contient quelques petits exercices sur jQuery.
+🚀 Le repo ici-présent contient quelques petits exercices sur jQuery, orientés autour d'une introduction sur les manipulation du DOM via jQuery.
 
 # Comment faire :
 
-- **cloner ou télécharger** via le bouton vert en haut à droite
-- **ouvrir index.html** dans votre navigateur préféré
-- **ouvrir js/main.js**
+- **cloner ou [télécharger](https://github.com/mijkami/jQueryExercises/archive/master.zip)** via le bouton vert en haut à droite
+- **ouvrir [index.html](index.html)** dans votre navigateur préféré
+- **ouvrir [js/main.js](js/main.js)**
 - suivre les instructions !
 
 
-# Introduction
+# Introduction :
 
 jQuery a été mis en place pour s'intégrer facilement avec le HTML et le CSS.
 
@@ -105,7 +117,7 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 	$("ul").children().eq(2).append("<div>Bonjour</div>");
 ```
 
-## Méthodes d'ajout / suppression d'éléments
+## Méthodes d'ajout / suppression d'éléments :
 
 - **append("nouvel élément")** : ajoute les éléments entre parenthèses comme enfants **à la fin** des éléments sélectionnés initialement
 ```
@@ -138,18 +150,7 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 **RTFM** mes chers amis ! Utilisez au mieux les liens de 👩‍🎓**documentation**👨‍🎓 fournis ci-dessous 👇.
 
 
-# Rappel général pour l'exercice :
-
-Être d'abord sûr que la page soit prête avec l'arborescence DOM construite, grâce à la fonction suivante :
-```
-$(document).ready(function() {
-	alert('La page est prête !);
-});
-```
-La première ligne indique "quand le document est prêt, lance la fonction suivante". C'est un élément que vous rencontrerez très souvent lors de vos expériences avec jQuery.
-
-
-
+### N.B. :
 Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closure.
 
 
@@ -200,3 +201,17 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 
 ### Exercices divers
 - https://fr.khanacademy.org/computing/computer-programming/html-js-jquery/dom-modification-with-jquery/a/project-extreme-makeover-webpage-edition
+
+
+### Remerciements / aknowledgements :
+Le micro-site sur lequel est basé l'exercice a été très largement inspiré de celui présent sur [codecademy](https://www.codecademy.com/courses/learn-jquery/lessons/jquery-setup/exercises/jquery-objects).
+Les exercices en tant que tels sont différents ainsi que la documentation ci-présente. De plus, ce mini-projet a été réalisé uniquement dans un but éducatif et non-commercial entre étudiants comme support d'une partie mineure d'un cours sur le jQuery.
+
+Une partie des liens (spécialement les cours et exercices listés dans les sources ci-dessus) proviennent des fabuleux membres du groupe ayant couvert avec ma participation les cours sur jQuery :
+
+- Marie-Amandine
+- Anaëlle
+- Younès
+- James
+
+Merci à tous ceux qui ont participé et surtout à vous qui êtes arrivés jusqu'au bout de la lecture de ce long Readme ! 👍
