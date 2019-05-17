@@ -13,16 +13,15 @@ ______               ____  ___
 
 # Sommaire :
 
-- [create an anchor](#some-markdown-heading)
-- (Description)[#Description-:]
-- (Comment faire / How to use)[#Comment-faire-:]
-- (Introduction)[#Introduction-:]
-	- (Comparaison JS/jQuery)[.#Comparaison-JS/jQuery]
-	- (Méthodes de navigation directe)[.#Méthodes-de-navigation-directe-:]
-	- (Méthodes d'ajout / suppression d'éléments)[.#Méthodes-d'ajout-/-suppression-d'éléments-:]
-	- (Il manque des méthodes !)[#Il-manque-des-méthodes-!-Et-le-reste-?]
-- (Sources (Docs, cours, vidéos, exercices, etc)[#Sources-:]
-- (Remerciements / aknowledgements)[#Remerciements-/-aknowledgements-:]
+- [Description](#Description-:)
+- [Comment faire / How to use](#Comment-faire-:)
+- [Introduction](#Introduction-:)
+	- [Comparaison JS/jQuery](.#Comparaison-JS/jQuery)
+	- [Méthodes de navigation directe](.#Méthodes-de-navigation-directe-:)
+	- [Méthodes d'ajout / suppression d'éléments](.#Méthodes-d'ajout-/-suppression-d'éléments-:)
+	- [Il manque des méthodes !](#Il-manque-des-méthodes-!-Et-le-reste-?)
+- [Sources (Docs, cours, vidéos, exercices, etc](#Sources-:)
+- [Remerciements / aknowledgements](#Remerciements-/-aknowledgements-:)
 
 # Description :
 
