@@ -60,7 +60,7 @@ $(document).ready(() => {
 
 $(document).ready(() => {
    // $("#nav-dropdown").hide();
-   $("#nav-dropdown").toggle(); //solution possible (1 autre en commentaires)
+   $("#nav-dropdown").toggle(); //solution possible (1 autre en commentaire)
 
 });
 
