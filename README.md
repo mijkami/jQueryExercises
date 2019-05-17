@@ -17,8 +17,8 @@ ______               ____  ___
 - [Comment faire / How to use](#Comment-faire)
 - [Introduction](#Introduction-:)
 	- [Comparaison JS/jQuery](.#Comparaison-JS/jQuery)
-	- [Méthodes de navigation directe](.#Méthodes-de-navigation-directe-:)
-	- [Méthodes d'ajout / suppression d'éléments](.#Méthodes-d'ajout-\/-suppression-d'éléments)
+	- [Méthodes de navigation directe](.#Méthodes-de-navigation-directe)
+	- [Méthodes d'ajout / suppression d'éléments](.#Méthodes-d'ajout-&-suppression-d'éléments)
 	- [Il manque des méthodes !](#Il-manque-des-méthodes-!-Et-le-reste-?)
 - [Sources (Docs, cours, vidéos, exercices, etc](#Sources-:)
 - [Remerciements / aknowledgements](#Remerciements-/-aknowledgements-:)
@@ -82,7 +82,7 @@ ou encore
 ul.firstChild.appendChild("<p>Bonjour</p>")
 ```
 
-## Méthodes de navigation directe : 
+## Méthodes de navigation directe 
 
 - **parent()** : renvoie le parent direct du/des élements sélectionnés
 ```
@@ -117,7 +117,7 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 	$("ul").children().eq(2).append("<div>Bonjour</div>");
 ```
 
-## Méthodes d'ajout / suppression d'éléments
+## Méthodes d'ajout & suppression d'éléments
 
 - **append("nouvel élément")** : ajoute les éléments entre parenthèses comme enfants **à la fin** des éléments sélectionnés initialement
 ```
