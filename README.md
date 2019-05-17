@@ -14,7 +14,7 @@ ______               ____  ___
 # Sommaire :
 
 - [Description](#Description)
-- [Comment faire / How to use](#Comment-faire)
+- [/!\ Comment faire / How to use](#Comment-faire)
 - [Introduction](#Introduction)
 	- [Comparaison JS/jQuery](#Comparaison-JS-et-jQuery)
 	- [Méthodes de navigation directe](#Méthodes-de-navigation-directe)
@@ -23,7 +23,7 @@ ______               ____  ___
 - [Sources (Docs, cours, vidéos, exercices, etc)](#Sources)
 - [Remerciements / aknowledgements](#Remerciements-Aknowledgements)
 
-Pour faciliter votre navigation, vous pouvez utiliser les liens internes ci-dessus, et soit utiliser la fonction "page précédente" de votre navigateur pour revenir sur le sommaire, soit tout simplement utiliser le défilement habituel (via pad, roulette de souris ou barre de défilement). Bonne lecture !
+**Pour faciliter votre navigation** : vous pouvez utiliser les liens internes ci-dessus, et soit utiliser la fonction "page précédente" de votre navigateur pour revenir sur le sommaire, soit tout simplement utiliser le défilement habituel (via pad, roulette de souris ou barre de défilement). Bonne lecture !
 
 # Description
 
