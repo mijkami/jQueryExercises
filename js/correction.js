@@ -18,8 +18,9 @@
 //		.show() (ou .toggle())
 // 		$();
 
+
 $(document).ready(() => {
-	
+	$('.product-photo').toggle(); //solution possible
 });
 
 
@@ -28,8 +29,9 @@ $(document).ready(() => {
 // 	Dans le dropdown (shoes & contact + les listes) de la navbar, ajoutez à chaque 2nd élément
 //	de la liste l'élément : "<span> - 2nd!</span>"
 
-$(document).ready(() => {
 
+$(document).ready(() => {
+	 $("body > div:first ul li:nth-child(2)").append("<span> - 2nd!</span>"); //solution possible
 });
 
 
@@ -38,7 +40,7 @@ $(document).ready(() => {
 //	changez la couleur (du background) du menu de la navbar (logo, menu, login) en bleu 
 
 $(document).ready(() => {
-	
+	$("nav").css("backgroundColor", "blue"); //solution possible
 });
 
 
@@ -46,7 +48,10 @@ $(document).ready(() => {
 // changez la couleur (du background) du menu "dropdown" (shoes & contact + les listes) en dessous de la navbar en rouge
 
 $(document).ready(() => {
+	// $("nav").css("background-color", "red");
+	// $("nav").next().css("background-color", "red");
 	
+	$("body").children().eq(1).css('background-color', 'red'); //solution possible (2 autres en commentaires)
 });
 
 
@@ -54,6 +59,8 @@ $(document).ready(() => {
 // Maintenant, sélectionnez l'id nav-dropdown (shoes & contact + les listes) et cachez-moi cette navbar !
 
 $(document).ready(() => {
+   // $("#nav-dropdown").hide();
+   $("#nav-dropdown").toggle(); //solution possible (1 autre en commentaires)
 
 });
 
@@ -61,11 +68,12 @@ $(document).ready(() => {
 
 // Faites une modification sur le texte "Menu" de la navbar (haut logo, menu, login)
 // pour afficher/cacher (toggle) la dropdown (shoes & contact + les listes) avec un clic.
-
 $(document).ready(() => {
-
+    $(".menu-button").click(function(){
+        $("#nav-dropdown").slideToggle("slow"); //solution possible
+    })
 });
 
 
-// Vous êtes prêts pour les futures instructions, 
-// 	restez à l'écoute (il se passe sûrement quelque chose au tableau)
+
+// Merci d'avoir suivi les exercices jusqu'au bout et amusez-vous bien pour la suite !
