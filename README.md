@@ -13,7 +13,7 @@ ______               ____  ___
 
 # Sommaire :
 
-- [Description](#Description-:)
+- [Description](#Description)
 - [Comment faire / How to use](#Comment-faire-:)
 - [Introduction](#Introduction-:)
 	- [Comparaison JS/jQuery](.#Comparaison-JS/jQuery)
@@ -23,7 +23,7 @@ ______               ____  ___
 - [Sources (Docs, cours, vidéos, exercices, etc](#Sources-:)
 - [Remerciements / aknowledgements](#Remerciements-/-aknowledgements-:)
 
-# Description :
+# Description
 
 🚀 Le repo ici-présent contient quelques petits exercices sur jQuery, orientés autour d'une introduction sur les manipulation du DOM via jQuery.
 
