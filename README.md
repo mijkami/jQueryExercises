@@ -156,7 +156,7 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 
 => **RTFM** mes chers amis ! Les parties précédentes avaient pour visée de fournir une introduction sur la façon d'intéragir avec la documentation et d'introduire / dégrossir jQuery. 
 
-Utilisez au mieux les liens de 👩‍🎓**documentation**👨‍🎓 fournis ci-dessous 👇.
+Utilisez au mieux les liens de [👩‍🎓**documentation**👨‍🎓](#Sources) fournis ci-dessous [👇](#Sources).
 
 
 ### N.B. :
