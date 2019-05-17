@@ -210,6 +210,8 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 
 ### Exercices divers
 - https://fr.khanacademy.org/computing/computer-programming/html-js-jquery/dom-modification-with-jquery/a/project-extreme-makeover-webpage-edition
+- http://coursdewebdesign.com/javascript/exercices/
+- https://www.codecademy.com/courses/learn-jquery/lessons/jquery-setup/exercises/jquery-objects
 
 
 # Remerciements Aknowledgements
