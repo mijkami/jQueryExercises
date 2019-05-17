@@ -15,7 +15,7 @@ ______               ____  ___
 
 - [Description](#Description)
 - [Comment faire / How to use](#Comment-faire)
-- [Introduction](#Introduction-:)
+- [Introduction](#Introduction)
 	- [Comparaison JS/jQuery](#Comparaison-JS-et-jQuery)
 	- [Méthodes de navigation directe](#Méthodes-de-navigation-directe)
 	- [Méthodes d'ajout / suppression d'éléments](#Méthodes-d'ajout-et-suppression-d'éléments)
@@ -35,7 +35,7 @@ ______               ____  ___
 - suivre les instructions !
 
 
-# Introduction :
+# Introduction
 
 jQuery a été mis en place pour s'intégrer facilement avec le HTML et le CSS.
 
@@ -50,7 +50,9 @@ Outre la prise en charge des différents navigateurs, jQuery est aussi renommé 
 
 Aujourd'hui, l'usage de ces sélecteurs est toujours possible mais n'est plus aussi intéressant que par le passé depuis l'implémentation en 2009  de Javascript Version 5 a amenée différents outils venant de jQuery, dont les querySelectors utilisés dans le JavaScript "simple" (aussi appelé "vanilla JavaScript").
 
-## ![Comparaison JS et jQuery](http://youmightnotneedjquery.com/)
+## Comparaison JS et jQuery
+
+En premier lieu, n'hésitez pas à [consulter ce site](http://youmightnotneedjquery.com/) qui offre des comparaisons intéressantes entre des scripts équivalents (et modernes) JavaScript et jQuery.
 
 Histoire de comparer, voyons comment ajouter "Bonjour" après un élément quelconque via les différentes syntaxes à disposition :
 
