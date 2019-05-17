@@ -16,12 +16,12 @@ ______               ____  ___
 - [Description](#Description)
 - [Comment faire / How to use](#Comment-faire)
 - [Introduction](#Introduction-:)
-	- [Comparaison JS/jQuery](#Comparaison-JS & jQuery)
+	- [Comparaison JS/jQuery](#Comparaison-JS-et-jQuery)
 	- [Méthodes de navigation directe](#Méthodes-de-navigation-directe)
-	- [Méthodes d'ajout / suppression d'éléments](#Méthodes-d'ajout-&-suppression-d'éléments)
+	- [Méthodes d'ajout / suppression d'éléments](#Méthodes-d'ajout-et-suppression-d'éléments)
 	- [Il manque des méthodes !](#Il-manque-des-méthodes-!-Et-le-reste-?)
 - [Sources (Docs, cours, vidéos, exercices, etc](#Sources)
-- [Remerciements / aknowledgements](#Remerciements,-aknowledgements)
+- [Remerciements / aknowledgements](#Remerciements-Aknowledgements)
 
 # Description
 
@@ -50,7 +50,7 @@ Outre la prise en charge des différents navigateurs, jQuery est aussi renommé 
 
 Aujourd'hui, l'usage de ces sélecteurs est toujours possible mais n'est plus aussi intéressant que par le passé depuis l'implémentation en 2009  de Javascript Version 5 a amenée différents outils venant de jQuery, dont les querySelectors utilisés dans le JavaScript "simple" (aussi appelé "vanilla JavaScript").
 
-## ![Comparaison JS & jQuery](http://youmightnotneedjquery.com/)
+## ![Comparaison JS et jQuery](http://youmightnotneedjquery.com/)
 
 Histoire de comparer, voyons comment ajouter "Bonjour" après un élément quelconque via les différentes syntaxes à disposition :
 
@@ -117,7 +117,7 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 	$("ul").children().eq(2).append("<div>Bonjour</div>");
 ```
 
-## Méthodes d'ajout & suppression d'éléments
+## Méthodes d'ajout et suppression d'éléments
 
 - **append("nouvel élément")** : ajoute les éléments entre parenthèses comme enfants **à la fin** des éléments sélectionnés initialement
 ```
@@ -203,7 +203,7 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 - https://fr.khanacademy.org/computing/computer-programming/html-js-jquery/dom-modification-with-jquery/a/project-extreme-makeover-webpage-edition
 
 
-### Remerciements, aknowledgements
+# Remerciements Aknowledgements
 Le micro-site sur lequel est basé l'exercice a été très largement inspiré de celui présent sur [codecademy](https://www.codecademy.com/courses/learn-jquery/lessons/jquery-setup/exercises/jquery-objects).
 Les exercices en tant que tels sont différents ainsi que la documentation ci-présente. De plus, ce mini-projet a été réalisé uniquement dans un but éducatif et non-commercial entre étudiants comme support d'une partie mineure d'un cours sur le jQuery.
 
