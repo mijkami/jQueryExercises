@@ -20,7 +20,7 @@ ______               ____  ___
 	- [Méthodes de navigation directe](#Méthodes-de-navigation-directe)
 	- [Méthodes d'ajout / suppression d'éléments](#Méthodes-pour-ajouter-et-supprimer-des-éléments)
 	- [Il manque des méthodes !](#Méthodes-manquantes)
-- [Sources (Docs, cours, vidéos, exercices, etc](#Sources)
+- [Sources (Docs, cours, vidéos, exercices, etc)](#Sources)
 - [Remerciements / aknowledgements](#Remerciements-Aknowledgements)
 
 Pour faciliter votre navigation, vous pouvez utiliser les liens internes ci-dessus, et soit utiliser la fonction "page précédente" de votre navigateur pour revenir sur le sommaire, soit tout simplement utiliser le défilement habituel (via pad, roulette de souris ou barre de défilement). Bonne lecture !
