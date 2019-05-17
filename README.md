@@ -13,6 +13,7 @@ ______               ____  ___
 
 # Sommaire :
 
+- [create an anchor](#anchors-in-markdown)
 - (Description)[#Description-:]
 - (Comment faire / How to use)[#Comment-faire-:]
 - (Introduction)[#Introduction-:]
@@ -82,7 +83,7 @@ ou encore
 ul.firstChild.appendChild("<p>Bonjour</p>")
 ```
 
-## Méthodes de navigation directe :
+## Méthodes de navigation directe : (#some-markdown-heading)
 
 - **parent()** : renvoie le parent direct du/des élements sélectionnés
 ```
