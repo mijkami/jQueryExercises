@@ -18,8 +18,8 @@ ______               ____  ___
 - [Introduction](#Introduction)
 	- [Comparaison JS/jQuery](#Comparaison-JS-et-jQuery)
 	- [Méthodes de navigation directe](#Méthodes-de-navigation-directe)
-	- [Méthodes d'ajout / suppression d'éléments](#Méthodes-d'ajout-et-suppression-d'éléments)
-	- [Il manque des méthodes !](#Il-manque-des-méthodes-!-Et-le-reste-?)
+	- [Méthodes d'ajout / suppression d'éléments](#Méthodes-pour-ajouter-et-supprimer-des-éléments)
+	- [Il manque des méthodes !](#Méthodes-manquantes)
 - [Sources (Docs, cours, vidéos, exercices, etc](#Sources)
 - [Remerciements / aknowledgements](#Remerciements-Aknowledgements)
 
@@ -119,7 +119,7 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 	$("ul").children().eq(2).append("<div>Bonjour</div>");
 ```
 
-## Méthodes d'ajout et suppression d'éléments
+## Méthodes pour ajouter et supprimer des éléments
 
 - **append("nouvel élément")** : ajoute les éléments entre parenthèses comme enfants **à la fin** des éléments sélectionnés initialement
 ```
@@ -147,9 +147,13 @@ ul.firstChild.appendChild("<p>Bonjour</p>")
 ```
 
 
-## Il manque des méthodes ! Et le reste ?
+## Méthodes manquantes
 
-**RTFM** mes chers amis ! Utilisez au mieux les liens de 👩‍🎓**documentation**👨‍🎓 fournis ci-dessous 👇.
+"Il manque des méthodes ! Et le reste ?"
+
+=> **RTFM** mes chers amis ! Les parties précédentes avaient pour visée de fournir une introduction sur la façon d'intéragir avec la documentation et d'introduire / dégrossir jQuery. 
+
+Utilisez au mieux les liens de 👩‍🎓**documentation**👨‍🎓 fournis ci-dessous 👇.
 
 
 ### N.B. :
