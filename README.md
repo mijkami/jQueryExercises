@@ -23,6 +23,8 @@ ______               ____  ___
 - [Sources (Docs, cours, vidéos, exercices, etc](#Sources)
 - [Remerciements / aknowledgements](#Remerciements-Aknowledgements)
 
+Pour faciliter votre navigation, vous pouvez utiliser les liens internes ci-dessus, et soit utiliser la fonction "page précédente" de votre navigateur pour revenir sur le sommaire, soit tout simplement utiliser le défilement habituel (via pad, roulette de souris ou barre de défilement). Bonne lecture !
+
 # Description
 
 🚀 Le repo ici-présent contient quelques petits exercices sur jQuery, orientés autour d'une introduction sur les manipulation du DOM via jQuery.
