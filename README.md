@@ -225,4 +225,4 @@ Une partie des liens (spécialement les cours et exercices listés dans les sour
 - Younès
 - James
 
-Merci à tous ceux qui ont participé et surtout à vous qui êtes arrivés jusqu'au bout de la lecture de ce long Readme ! 👍
+Merci à tous ceux qui ont participé et surtout à vous qui êtes arrivés jusqu'au bout de la lecture de ce long Readme ! [👍](#sommaire-)
