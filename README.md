@@ -218,7 +218,7 @@ Autre librairies permettant la manipulation du DOM : MooTools, Prototype & Closu
 Le micro-site sur lequel est basé l'exercice a été très largement inspiré de celui présent sur [codecademy](https://www.codecademy.com/courses/learn-jquery/lessons/jquery-setup/exercises/jquery-objects).
 Les exercices en tant que tels sont différents ainsi que la documentation ci-présente. De plus, ce mini-projet a été réalisé uniquement dans un but éducatif et non-commercial entre étudiants comme support d'une partie mineure d'un cours sur le jQuery.
 
-Une partie des liens (spécialement les cours et exercices listés dans les sources ci-dessus) proviennent des fabuleux membres du groupe ayant couvert avec ma participation les cours sur jQuery :
+Une partie des liens (spécialement certains cours et exercices listés dans les sources ci-dessus) proviennent des fabuleux membres du groupe ayant couvert avec ma participation les cours sur jQuery :
 
 - Marie-Amandine
 - Anaëlle
